@@ -1,7 +1,7 @@
 # AI-for-Medical-Diagnosis
 
-Deep learning is finding more and more application in the field of medicine, e.g. it helps doctors to diagnose medical disorders more precisely.
-DeepLearning.AI / Coursera offers a great course “AI for Medical Diagnosis”.  If you are interested in this area, this course is definitely worth to take.
+Deep learning is finding more and more application in the field of healthcare & medicine, e.g. it helps doctors to diagnose medical disorders more precisely.
+DeepLearning.AI / Coursera offers a great course “AI for Medical Diagnosis”.  
 
 The learning material of this course is divided into 3 weeks:
 
