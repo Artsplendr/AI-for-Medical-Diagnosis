@@ -1,4 +1,4 @@
-# AI-for-Medical-Diagnosis
+# AI-for-Medical-Diagnosis Course by DeepLearning.AI / Coursera
 
 Deep learning is finding more and more applications in the field of healthcare & medicine.  One example is AI helping doctors/radiologists to better diagnose medical disorders, based  on medical images analysis.
 
